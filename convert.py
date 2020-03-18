@@ -3,7 +3,7 @@
 Reads Darknet config and weights and creates Keras model with TF backend.
 
 """
-
+#重みをkeras用に変換する
 import argparse
 import configparser
 import io
